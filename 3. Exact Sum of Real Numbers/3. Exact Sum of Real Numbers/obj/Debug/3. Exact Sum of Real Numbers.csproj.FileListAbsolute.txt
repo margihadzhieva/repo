@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Softuni_Programming Fundamentals\3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe.config
+C:\Users\Daisy\Documents\Softuni_Programming Fundamentals\3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\Daisy\Documents\Softuni_Programming Fundamentals\3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.pdb
+C:\Users\Daisy\Documents\Softuni_Programming Fundamentals\3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\Daisy\Documents\Softuni_Programming Fundamentals\3. Exact Sum of Real Numbers\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.pdb
